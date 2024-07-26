@@ -4,7 +4,7 @@ entries:
   - apiVersion: v2
     appVersion: 0.0.1
     created: "2024-07-27T08:24:18.755606762+09:00"
-    description: A Helm chart to deploy madame3369/toyproject-1 application
+    description: A Helm chart to deploy toyproject-1/toyproject1 application
     digest: 81cb837c95634779a8b776354a4b2e49bd3751d5db2d921758f98ed4ee78794e
     name: toyproject1
     type: application
