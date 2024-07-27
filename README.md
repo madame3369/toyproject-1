@@ -5,3 +5,8 @@ APIserver
 <img width="754" alt="localtest-dockerrun 이미지동작확인 2024-07-24 211001" src="https://github.com/user-attachments/assets/27a7d0e5-b203-42f7-ac88-5473928be174">
 <img width="365" alt="helm repo용 사이트만들기 2024-07-25 200050" src="https://github.com/user-attachments/assets/21601a8e-23a2-4572-8f9a-a86b26b08642">
 <img width="704" alt="helm repo 등록 후 동작확인하기 2024-07-27 083440" src="https://github.com/user-attachments/assets/9cd06b17-43e6-4fc2-a324-08a3cead468a">
+
+
+api test용 DB 생성 후 테이블 만들어놓기
+
+<img width="1127" alt="image" src="https://github.com/user-attachments/assets/be2ed8e7-91c3-4090-a532-c975b5761b83">
